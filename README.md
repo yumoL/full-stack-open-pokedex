@@ -16,4 +16,5 @@ Start by running `npm install` inside the project folder
 
 ## Exercises
 [exercise 11.1](https://github.com/yumoL/full-stack-open-pokedex/blob/master/exercise1.md)
+
 [exercise 11.21-22 pipline of own application](https://github.com/yumoL/phonebook_cicd)
